@@ -1,0 +1,63 @@
+# ================================
+# Project #7 - Personal Expense & Spending Analysis
+# ================================
+
+# Power BI temporary / backup files
+*.pbit
+*.tmp
+*.bak
+
+# Power BI local/cache files
+.cache/
+temp/
+Temp/
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Python cache (if any supporting scripts are added later)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS / editor temporary files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Local environment / secrets
+.env
+.env.*
+
+# Personal/local configuration
+*.local
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Data exports / temporary files
+export/
+exports/
+output/
+outputs/
+
+# Local screenshots/temp images
+*.tmp.png
+*.tmp.jpg
