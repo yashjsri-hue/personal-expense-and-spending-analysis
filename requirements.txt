@@ -1,0 +1,11 @@
+# Personal Expense & Spending Analysis
+
+# Power BI project — no Python package dependencies
+
+Microsoft Power BI Desktop
+Power Query
+DAX
+
+# Data source
+
+CSV
